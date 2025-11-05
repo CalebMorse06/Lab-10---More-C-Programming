@@ -1,0 +1,23 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+lab10
+
+# Test files (not required for submission)
+test_*.txt
+*_output.txt
+TEST_RESULTS.md
+expected_output.txt
+actual_output.txt
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
